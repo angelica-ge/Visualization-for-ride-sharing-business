@@ -1,5 +1,6 @@
 # Visualization-for-ride-sharing-business
-
+## Objective
+analyze all the rideshare data from January to early May of 2019 and create a compelling visualization for the CEO
 ##
 learn how to graph data using the Matplotlib library. 
 SciPy, a statistical Python package, and NumPy, a fundamental package for scientific computing in Python. You'll use Pandas, SciPy, and NumPy to perform summary statistics.
